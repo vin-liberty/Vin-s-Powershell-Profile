@@ -18,10 +18,11 @@ PowerShell配置文件类似于Linux中的`/etc/profile`，当PowerShell启动�
 `la`命令将列出所有文件，包括隐藏文件。（隐藏文件是指以点开头的文件，而不是Windows中真正的隐藏文件）  
 `ll`命令将列出所有文件，包括隐藏文件，并显示更多的详细信息。
 文件夹将以蓝色显示，可执行文件将以绿色显示，其他文件将以白色显示。并且结果将左对齐。  
+![list files](./img/List-File.png "ls,ll,la命令")
 
 ### 2. 添加"Add-Path"命令
 “Add-Path”命令可以将路径添加到用户环境变量PATH中。
-![Add-Path](./img/Add-Path.png)
+![Add-Path](./img/Add-Path.png "Add-Path命令")
 
 #### 使用
 基本用法：

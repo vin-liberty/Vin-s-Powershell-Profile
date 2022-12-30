@@ -16,13 +16,13 @@ Copy the contents of "Microsoft.PowerShell_profile.ps1" to you own PowerShell Pr
 `la` command will list all files including hidden files. (Hidden file is such a file that starts with a dot,not truely hidden file in Windows)  
 `ll` command will list all files including hidden files and show more details.  
 Folders are displayed in blue, executable files are displayed in green, other files are displayed in white when execute command "ls". And the result will be left justified.
-![list files](./img/List-File.png)
+![list files](./img/List-File.png "ls,ll,la command")
 
 
 
 ### 2. Add-Path command
 `Add-Path` command can add a spectifc directory to user's PATH environment variable. 
-![Add-Path](./img/Add-Path.png)
+![Add-Path](./img/Add-Path.png "Add-Path command")
 
 #### Usage
 Basic usage:
